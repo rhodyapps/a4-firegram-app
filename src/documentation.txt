@@ -1,3 +1,5 @@
 part1: 
 1. clone the starter files and point the origin to my own repository
 2. create a documentation.txt file in 'src' folder
+3. run 'npm install' to update dependencies
+4. run 'npm audit fix' to fix vulnerabilities
