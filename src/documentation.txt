@@ -1,0 +1,3 @@
+part1: 
+1. clone the starter files and point the origin to my own repository
+2. create a documentation.txt file in 'src' folder
