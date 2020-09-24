@@ -18,7 +18,7 @@ storageRef.put(file).on('state_changed', (snap) => {
 }, (err) => {
     setError(err);
 }, async () => {
-    const url = await storageRef.getDownloadedURL();
+    const url = await storageRef.getDownloadURL();
     setUrl(url);
 })
     }, [file]);
