@@ -10,7 +10,9 @@ const useStorage = (file) => {
     useEffect(() => {
 // references
 
-const storageRef.put(file).on('state_changed', (snap) => {
+const storageRef = projectStorage.ref(file.name);
+
+storageRef.put(file).on('state_changed', (snap) => {
     let percentage = (snap.bytesTransferred / snap.totalBytes) * 100;
     setProgress(percentage);
 }, (err) => {
