@@ -1,3 +1,10 @@
+This project follows the various stages of the tutorial by Brad Traversy:
+'Build a Photo Gallery with React and Firebase' hosted by Brad Traversy and narrated by Net Ninja.
+
+Video tutorial link: https://www.youtube.com/watch?v=vUe91uOx7R0
+
+The branches are used to show the evolution from the starter files to a completed project. Hence they are not merged into the master.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
