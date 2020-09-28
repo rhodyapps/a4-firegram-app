@@ -1,5 +1,6 @@
 This project follows the various stages of the tutorial by Brad Traversy:
-'Build a Photo Gallery with React and Firebase' hosted by Brad Traversy and narrated by Net Ninja.
+'Build a Photo Gallery with React and Firebase' hosted by Brad Traversy and narrated by Net Ninja 
+https://github.com/iamshaunjp
 
 Video tutorial link: https://www.youtube.com/watch?v=vUe91uOx7R0
 
